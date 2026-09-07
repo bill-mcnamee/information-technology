@@ -50,33 +50,33 @@ Selected projects and accomplishments from across my information technology care
 
 * Led technology initiatives spanning enterprise infrastructure, business-system implementations, office relocations, organizational acquisitions, technology integrations, and geographically distributed operations.
 * Led cross-functional projects involving organizational leadership, technical teams, business stakeholders, vendors, consultants, and end users from requirements and planning through implementation and ongoing support.
-* Contributed to the planning and successful launch of the **Towson Apple Store** as part of a four-person technical team responsible for preparing the technology environment for opening.
-* Led deployment of an **IQTech Smart Locker solution for a 3,000+ employee campus**, improving hardware distribution and support while enabling remote hardware and software deployment workflows.
+* Contributed to the planning and successful launch of the Towson Apple Store as part of a four-person technical team responsible for preparing the technology environment for opening.
+* Led deployment of an IQTech Smart Locker solution for a 3,000+ employee campus**, improving hardware distribution and support while enabling remote hardware and software deployment workflows.
 
 ### Service & People Leadership
 
 * Led and developed technology support personnel across service desk, database, infrastructure, and customer-facing environments, combining technical delivery with an emphasis on communication, accountability, training, and customer service.
-* Supported technology environments serving as many as **10,000+ users**, developing service practices, documentation, training, and operational processes appropriate to organizations at scale.
-* Improved **single-call resolution by approximately 20 percent** through improvements to technology support operations.
-* Improved **ServiceNow SLA compliance by approximately 30 percent** through workflow and service-management improvements.
+* Supported technology environments serving as many as 10,000+ users**, developing service practices, documentation, training, and operational processes appropriate to organizations at scale.
+* Improved single-call resolution by approximately 20 percent through improvements to technology support operations.
+* Improved ServiceNow SLA compliance by approximately 30 percent through workflow and service-management improvements.
 * Developed and delivered technology training for users and technical staff across a range of systems, applications, and professional environments.
-* Established and maintained a **cross-platform Windows and Mac quality assurance testing lab**, supporting pre-release validation and product reliability.
-* Coordinated **annual macOS upgrade testing and readiness**, validating compatibility and identifying potential issues before enterprise deployment.
+* Established and maintained a cross-platform Windows and Mac quality assurance testing lab, supporting pre-release validation and product reliability.
+* Coordinated annual macOS upgrade testing and readiness, validating compatibility and identifying potential issues before enterprise deployment.
 
 ### Business Systems & Information
 
-* Designed, developed, and managed **relational databases supporting archaeological research, historical records, and artifact collections**.
-* Designed and implemented business systems supporting **accounts payable, accounts receivable, and payroll automation**, replacing or improving manual operational processes.
-* Implemented an integrated **retail inventory control system** spanning purchasing, warehousing, inventory management, and point-of-sale operations, contributing to a **30 percent reduction in inventory shrinkage**.
-* Evaluated and implemented a **geographic information system (GIS)** that expanded capabilities for cultural and environmental resource analysis.
-* Implemented **AutoCAD-based drafting systems** to digitize, manage, and archive prehistoric and historic archaeological map data.
-* Built and maintained **public-facing websites and a corporate intranet**, including web-based interfaces supporting internal call tracking and asset management reporting.
+* Designed, developed, and managed relational databases supporting archaeological research, historical records, and artifact collections.
+* Designed and implemented business systems supporting accounts payable, accounts receivable, and payroll automation, replacing or improving manual operational processes.
+* Implemented an integrated retail inventory control system** spanning purchasing, warehousing, inventory management, and point-of-sale operations, contributing to a 30 percent reduction in inventory shrinkage.
+* Evaluated and implemented a geographic information system (GIS) that expanded capabilities for cultural and environmental resource analysis.
+* Implemented AutoCAD-based drafting systems to digitize, manage, and archive prehistoric and historic archaeological map data.
+* Built and maintained public-facing websites and a corporate intranet, including web-based interfaces supporting internal call tracking and asset management reporting.
 
 ### Infrastructure & Technology Management
 
 * Led infrastructure initiatives encompassing enterprise networks, workplace technology, geographically distributed operations, business continuity, disaster recovery, office relocations, and organizational integrations.
 * Managed technology evaluation, acquisition, implementation, support, vendor relationships, budgets, and lifecycle planning across environments ranging from small businesses to large enterprises.
-* Managed an annual **Oracle technology budget exceeding $500,000**, balancing operational requirements, licensing, investment priorities, and system stability.
+* Managed an annual Oracle technology budget exceeding $500,000, balancing operational requirements, licensing, investment priorities, and system stability.
 * Improved production database performance by approximately **50 percent** while supporting business-critical enterprise systems and the teams responsible for their operation.
 
 ### Technology Adoption & Evolution
@@ -84,7 +84,7 @@ Selected projects and accomplishments from across my information technology care
 * Maintained a career-long focus on evaluating new and emerging technologies for their practical value to people, organizations, and professional workflows.
 * Helped organizations and users move from technology selection to effective adoption through project planning, implementation, communication, training, documentation, and ongoing support.
 * Bridged technical and nontechnical stakeholders by translating organizational requirements into practical technology solutions and connecting those solutions to the work people needed to accomplish.
-* Incorporated **assistive and generative AI** into current technology and creative workflows, applying tools such as ChatGPT, Claude, and MidJourney to research, communication, content development, problem solving, and workflow improvement.
+* Incorporated assistive and generative AI into current technology and creative workflows, applying tools such as ChatGPT, Claude, and MidJourney to research, communication, content development, problem solving, and workflow improvement.
 
 ## Links
 
